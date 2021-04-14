@@ -2,4 +2,4 @@
 Calculating the number of digits deep one must go to find all pins of a given length
 
 Run the pi.R script in R.
-Or use the .RProj file
+Or use the .Rproj file
