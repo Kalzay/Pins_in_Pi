@@ -32,4 +32,5 @@ while(count < length(pins)) {
         index <- index + 1
 }
 
-cat("Figures of pi needed to find all pins of length", pin_length, "is", index+3)
+cat("Figures of pi needed to find all pins of length", pin_length, "is", index+3,"\n",
+"The last pin found was", tail(pins, n=2))
